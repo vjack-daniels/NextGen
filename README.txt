@@ -1,4 +1,4 @@
-Our project was created using React.js
+Our project was created using React
 
 The presentation we prepared to demo our project and present our idea, can be found here:
 
