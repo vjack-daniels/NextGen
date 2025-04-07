@@ -1,6 +1,6 @@
 Our project was created using React
 
-The presentation we prepared to demo our project and present our idea, can be found here:
+The presentation for our project can be found here:
 
 https://www.canva.com/design/DAGVwsxs-ig/WGaRpYFrvhjm3E4GnI5LHg/edit?utm_content=DAGVwsxs-ig&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
